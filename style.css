@@ -1,9 +1,37 @@
 body {
-  background: white;
+    background-color: #ECECE7;
+    color: #2B2B2C;
+    font-family: "Inter", sans-serif;
 }
-p {
-  color: black;
+h1, h3 {
+    font-family: "Gidole", sans-serif;
 }
 h1 {
-  font-weight: bold;
+    background-color: #005387;
+    color: #ECECE7;
+    font-size: 3em;
+    margin: 32px -8px;
+    padding-left: 0.5em;
+}
+h3 {
+    padding-left: 2em;
+}
+p {
+    font-size: 1.6em;
+}
+.warning {
+    background-color: #F9A900;
+    color: #2B2B2C;
+}
+.prohibition {
+    background-color: #9B2423;
+    color: #ECECE7;
+}
+.mandatory {
+    background-color: #005387;
+    color: #ECECE7;
+}
+.safe {
+    background-color: #237F52;
+    color: #ECECE7;
 }
