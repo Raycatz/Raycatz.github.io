@@ -1,5 +1,9 @@
-/* CSS styles */
+body {
+  background: white;
+}
+p {
+  color: black;
+}
 h1 {
-font-family: Impact, sans-serif;
-color: #CE5937;
+  font-weight: bold;
 }
